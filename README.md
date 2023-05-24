@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nsarob
 - 👀 I’m interested in building robots
-- 🌱 I’m currently learning ROS, simulation in Matlab, Simscape
-- 💞️ I’m looking to collaborate on building robotics tools
+- 🌱 I’m currently working with ROS, simulation in Matlab, Simscape
+- 💞️ I’m looking to collaborate on building robotic tools
 - 📫 How to reach me @nsarob
 
 <!---
