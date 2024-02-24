@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Nsarob
-- 👀 I’m interested in building robots
-- 🌱 I’m currently working with CRAM Cognitive architecture in ROS
-- 📫 Reach out to me @nsarob
+I am AI grad student at CMU I am passionate about AI/ML 🐱‍💻, enthuastic about robotics and Deep Learning and love solving puzzles.
 
-<!---
-Nsarob/Nsarob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning CRAM cognitve architecture
+
+💬 Ask me about Deep Learning, Embedded Systems and Robotics
+
+📫 How to reach me ndamour@andrew.cmu.edu
+
+📄 Know about my experiences https://www.linkedin.com/in/damour-nsanzimfura/
+
+
