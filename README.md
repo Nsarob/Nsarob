@@ -1,6 +1,5 @@
-I am AI grad student at CMU I am passionate about AI/ML 🐱‍💻, enthuastic about robotics and Deep Learning and love solving puzzles.
-
-🌱 I’m currently learning CRAM cognitve architecture
+I'm grad student at CMU
+I am passionate about AI/ML 🐱‍💻, enthuastic about robotics and Deep Learning and love solving puzzles.
 
 💬 Ask me about Deep Learning, Embedded Systems and Robotics
 
