@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Damour
+# 👋 Hi, I'm Damour
 
 ## 🚀 Mission Control: Launching Ideas into Code
 
