@@ -2,7 +2,7 @@
 
 ## 🚀 Mission Control: Launching Ideas into Code
 
-🎓 Master's in AI @ Carnegie Mellon University Africa | 🤖 Former Mechatronics Engineer
+🎓 Master's in AI @ Carnegie Mellon University Africa | 🤖 Do robotics too
 
 ### 💻 Code Connoisseur | 🧠 AI Enthusiast | 🌐 Distributed Systems Developer
 
