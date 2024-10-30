@@ -28,7 +28,6 @@
 ## 🏆 Achievements Unlocked
 
 - 🏅 AWS Certified Serverless Architect: Yes, I can make servers vanish into thin air!
-- 🎓 Graduated with a perfect 5.0 GPA: Because why settle for less when you can debug your way to perfection?
 
 ---
 
