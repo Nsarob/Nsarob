@@ -42,7 +42,7 @@
 
 ## 🌟 Fun Fact
 
-I once debugged a program so efficiently, my rubber duck started questioning its career choices. 🦆💼
+None
 
 ---
 
