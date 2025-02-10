@@ -16,8 +16,8 @@
 
 ## 🎭 Roles I Play
 
-- 🧑‍🏫 Graduate Teaching Assistant @ CMU: Guiding future tech leaders through the AIOps labyrinth
-- 👨‍💻 Software Engineer Intern @ Wekraft Limited: Crafting EdTech wonders with a sprinkle of Node.js and a dash of Flask
+- 🧑‍🏫 Graduate Teaching Assistant @ CMU: Supports the AIOps course 
+- 👨‍💻 Software Engineer Intern @ Wekraft Limited: Node.js and a dash of Flask
 
 ---
 
