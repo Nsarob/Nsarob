@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Damour
 
-## 🚀 Mission Control: Launching Ideas into Code
-
-🎓 Master's in AI @ Carnegie Mellon University Africa | 🤖 Do robotics too
-
 ### 💻 Code Connoisseur | 🧠 AI Enthusiast | 🌐 Distributed Systems Developer
 
 ---
