@@ -3,8 +3,8 @@
 
 Email: nsanzimfurakomakech@gmail.com
 
-LinkedIn:www.linkedin.com/in/damour-nsanzimfura/
+LinkedIn: www.linkedin.com/in/damour-nsanzimfura/
 
-Portfolio: here
+Portfolio: https://nsarob.github.io/Nsaai/
 
 
