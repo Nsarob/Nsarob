@@ -1,4 +1,3 @@
-nsarob/README.md
 
 ## 📫 How to reach me:
 
