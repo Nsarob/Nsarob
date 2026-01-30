@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am D'amour, - Agentic software engineer <br>focusing on shipping solutions from concept <br>to deployment 
+I am D'amour, - Agentic software engineer <br>I champion shipping solutions from concept <br>to deployment 
 gprm
 
 
