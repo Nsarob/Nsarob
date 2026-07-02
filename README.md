@@ -1,14 +1,6 @@
 # Hi, I'm D'amour 👋
 
-### 🩺 AI & Digital Health developer [@HISP Rwanda](https://hisprwanda.org/)
-
-Building **DHIS2-powered** health systems and AI tools for public health across Africa — predictive models for climate-sensitive diseases, RAG assistants for health workers, and offline-first tooling for community health workers.
-
-- 🧠 Integrating **ML, LLMs & predictive modeling** into digital health platforms with the Ministry of Health & Rwanda Biomedical Centre
-- 🔐 Federated learning & privacy-preserving **Edge LLMs** for clinical data
-- 🎓 MS in Engineering AI, **Carnegie Mellon University**
-- ☁️ **8× AWS Certified** · AWS re:Invent 2025 Builders Grant recipient
-- 🌐 [nsarob.github.io](https://nsarob.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/damour-nsanzimfura/)
+Building AI digital tools .....
 
 ## 💻 Tech Stack
 
