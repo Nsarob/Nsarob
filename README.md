@@ -1,6 +1,6 @@
 ## Hi there, I'm Damour 👋
 
-Building AI powered health digital tools ...
+Building AI powered digital health tools ...
 
 
 ## 📊 GitHub Stats
